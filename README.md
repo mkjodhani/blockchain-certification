@@ -3,4 +3,4 @@
 
 | Developers                                             |                                                               |
 | ------------------------------------------------------ | ------------------------------------------------------------- |
-| [Saurabh Thakur](https://github.com/mkjodhani) | ![st](https://avatars0.githubusercontent.com/u/47267142?s=50) |
+| [mkjodhani](https://github.com/mkjodhani) | ![st](https://avatars0.githubusercontent.com/u/47267142?s=50) |
